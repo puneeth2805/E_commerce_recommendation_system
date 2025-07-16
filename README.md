@@ -128,22 +128,26 @@ http://127.0.0.1:8000/
 ## 📸 Screenshots
 
 ### 🔥 Home Page
-![Home](screenshots/home.png)
+![Home](RecommendationApp/screenshots/home.png)
 
 ### 📝 Registration
-![Registration](screenshots/register.png)
+![Registration](RecommendationApp/screenshots/register.png)
 
 ### 🔑 Login
-![Login](screenshots/login.png)
+![Login](RecommendationApp/screenshots/login.png)
 
 ### 📂 Dataset Upload
-![Dataset](screenshots/dataset.png)
+![Dataset](RecommendationApp/screenshots/dataset.png)
 
 ### 📊 Cluster Visualization
-![Clusters](screenshots/clusters.png)
+![Clusters](RecommendationApp/screenshots/clusters.png)
+
+### 💬 Segmentation Output
+![Segmentation](RecommendationApp/screenshots/segmentation_output.png)
 
 ### 💬 Personalized Recommendations
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](RecommendationApp/screenshots/recommendations.png)
+
 
 ---
 
