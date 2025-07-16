@@ -1,11 +1,6 @@
 
 # 🛍️ E-commerce Customer Segmentation & Personalized Recommendation System
 
-![GitHub repo size](https://img.shields.io/github/repo-size/puneeth2805/E_commerce_recommendation_system)
-![GitHub issues](https://img.shields.io/github/issues/puneeth2805/E_commerce_recommendation_system)
-![GitHub forks](https://img.shields.io/github/forks/puneeth2805/E_commerce_recommendation_system?style=social)
-![GitHub stars](https://img.shields.io/github/stars/puneeth2805/E_commerce_recommendation_system?style=social)
-![GitHub license](https://img.shields.io/github/license/puneeth2805/E_commerce_recommendation_system)
 
 ---
 
